@@ -1,7 +1,7 @@
 {
     "name": "jarker/giles",
     "description": "Giles Laravel Package",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Josh Barker",
